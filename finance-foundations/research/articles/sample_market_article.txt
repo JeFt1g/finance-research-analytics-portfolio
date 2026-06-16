@@ -1,0 +1,5 @@
+Equity markets reacted quickly after the central bank signaled that interest rates may stay higher for longer. Growth stocks declined 3% on the day, while defensive sectors were flat. Volatility rose and liquidity weakened near the close.
+
+The event raises questions about market efficiency because prices adjusted within minutes, but some mispricing may persist if investors face funding constraints or career risk. Portfolio managers should review correlation, drawdown, factor exposure, and whether the portfolio is too concentrated in long-duration equities.
+
+This article connects to market efficiency, limits to arbitrage, portfolio analysis, and risk dashboards.

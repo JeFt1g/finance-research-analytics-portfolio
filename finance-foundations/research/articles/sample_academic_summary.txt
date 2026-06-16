@@ -1,0 +1,3 @@
+Modern Portfolio Theory argues that investors should evaluate assets by expected return, variance, and correlation rather than by standalone return alone. Diversification can improve the risk-return tradeoff when asset returns are not perfectly correlated.
+
+CAPM extends this logic by separating systematic market risk from idiosyncratic risk and using beta to estimate expected return. Arbitrage Pricing Theory expands the model with multiple macro and style factors. These theories support portfolio construction, factor dashboards, and risk attribution.
