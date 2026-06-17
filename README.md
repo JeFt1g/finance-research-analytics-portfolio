@@ -8,7 +8,6 @@ Start here:
 - [Portfolio Overview](finance-foundations/PORTFOLIO.md)
 - [How To Run](finance-foundations/HOW_TO_RUN.md)
 - [Project Index](finance-foundations/PROJECT_INDEX.md)
-- [QA Report](finance-foundations/QA_REPORT.md)
 
 ## Best Demo Order
 
@@ -39,7 +38,9 @@ Dashboard screenshots are included under each app or project `outputs/screenshot
 
 ```powershell
 cd finance-foundations
-.\practical-projects\.venv\Scripts\python.exe scripts\check_portfolio.py
+python -m venv .venv
+.\.venv\Scripts\python -m pip install -r requirements.txt
+.\.venv\Scripts\python scripts\check_portfolio.py
 ```
 
 ## Note

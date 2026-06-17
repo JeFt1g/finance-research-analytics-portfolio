@@ -15,7 +15,3 @@
 |---|---|---|
 | Finance Research App | Paste or upload articles and run local extraction | `streamlit run apps/finance_research_app/app.py` |
 | Project Dashboard Launcher | Portfolio home page for practical projects | `streamlit run apps/project_dashboard_launcher/app.py` |
-
-## Supporting Theory-To-Code Projects
-
-The `projects/` folder contains smaller CLI prototypes for option pricing, portfolio optimization, CAPM beta, multifactor modeling, market efficiency, mispricing risk, and governance analysis.

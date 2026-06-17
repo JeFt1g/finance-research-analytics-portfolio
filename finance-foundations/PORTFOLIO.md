@@ -44,7 +44,7 @@ The system is designed to connect articles to:
 
 ## Screenshots
 
-Add screenshots to each project's `outputs/screenshots/` folder:
+Screenshots are included in each app or project's `outputs/screenshots/` folder:
 
 - Main dashboard
 - Charts section
@@ -65,10 +65,6 @@ Add screenshots to each project's `outputs/screenshots/` folder:
 - Developed financial statement, portfolio risk, credit risk, and stock valuation projects with sample data, charts, and markdown reports.
 - Implemented a local rule-based article reader that extracts finance keywords, risks, numbers, and theory/project connections without paid APIs.
 - Created Streamlit dashboards for research review and project presentation.
-
-## Supporting CLI Projects
-
-Earlier theory-to-code projects remain in `projects/`, including option pricing, portfolio optimization, CAPM beta, multifactor modeling, market efficiency testing, mispricing risk, and governance analysis.
 
 ## Known Limitations
 

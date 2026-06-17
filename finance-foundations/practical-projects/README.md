@@ -58,7 +58,7 @@ cd ..\04-stock-valuation-dcf-comparables
 From `finance-foundations/`:
 
 ```powershell
-.\practical-projects\.venv\Scripts\python scripts\check_portfolio.py
+python scripts\check_portfolio.py
 ```
 
 ## Submission Notes

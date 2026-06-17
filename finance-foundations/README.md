@@ -12,7 +12,7 @@ A finance research and analytics portfolio combining foundational theory, articl
 - Four practical finance analytics projects
 - Streamlit dashboards for research and project review
 - Sample data, generated charts, markdown reports, and case studies
-- Portfolio presentation files for GitHub and resume use
+- Screenshots for GitHub and resume use
 
 ## How To Use This Repo
 
@@ -89,8 +89,6 @@ research/
 shared/
 apps/
 practical-projects/
-projects/
-portfolio-assets/
 ```
 
 ## Future Improvements
@@ -100,7 +98,3 @@ portfolio-assets/
 - Add PDF source citation extraction
 - Add automated Streamlit screenshots
 - Expand into AI finance agents with source-backed retrieval
-
-## Existing Portfolio Assets
-
-The earlier portfolio materials remain available in `CAREER_PORTFOLIO.md`, `PROJECT_ONE_PAGERS.md`, `SUBMISSION_CHECKLIST.md`, and `portfolio-assets/`.
